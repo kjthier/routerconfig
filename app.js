@@ -1,3 +1,5 @@
+// deploy: https://routerconfig-3ab4.onrender.com
+
 import express from 'express';
 import userRoutes from './routes/users.js';
 import connectDB from './client.js'
